@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.t { 
+    padding:100px;
+    color: lightcyan;
+   
+}
+
+td{
+    color: azure;
+}
+th{
+    color: azure;
+}
